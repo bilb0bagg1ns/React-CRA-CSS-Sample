@@ -1,0 +1,28 @@
+.error {
+    background-color: red;
+  }
+
+.pass {
+    color: blue;
+}
+  p {font-size: 1em; color: White;}
+
+  .w3container:after,.w3row:after,.w3rowpadding:after,.w3topnav:after,.w3clear:after,.w3btngroup:before,.w3btngroup:after,.w3btnbar:before,.w3btnbar:after
+{content:"";display:table;clear:both}
+
+  .w3black,.w3hoverblack:hover{color:#fff!important;background-color:#000!important}
+  .w3textwhite,.w3hovertextwhite:hover{color:#fff!important}
+
+  .w3medium{font-size:15px!important}
+  .w3textwheatley,.w3hovertextwheatley:hover{color:#fff7b1!important}
+
+  @media (maxwidth:600px){.w3hidesmall{display:none!important}}
+
+  /* Custom colors */
+
+.w3garrus,.w3hovergarrus:hover{color:#fff!important;background-color:#003767!important}
+
+.w3container:after,.w3row:after,.w3rowpadding:after,.w3topnav:after,.w3clear:after,.w3btngroup:before,.w3btngroup:after,.w3btnbar:before,.w3btnbar:after
+{content:"";display:table;clear:both}
+
+.w3padding12,.w3paddinghor12{padding-top:12px!important;padding-bottom:12px!important}
