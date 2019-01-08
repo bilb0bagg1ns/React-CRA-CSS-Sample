@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## MP -  Sourced from :  https://facebook.github.io/create-react-app/docs/adding-a-css-modules-stylesheet
+
 ## Available Scripts
 
 In the project directory, you can run:
